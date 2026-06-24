@@ -22,14 +22,14 @@ Here, you will find a curated collection of end-to-end data intelligence project
 
 ### 1. Superstore Sales & Delivery Insights Dashboard
 * **Objective:** Designed an interactive ecosystem to optimize sales trends, regional distribution, and delivery logistics metrics.
-* **Key Tech Stack:** Power BI, Power Query (Advanced Data Cleaning), Star Schema Data Modeling.
+* **Key Tech Stack:** **Power BI**, Power Query (Advanced Data Cleaning), Star Schema Data Modeling.
 * **Key Feature:** Fully integrated advanced Drillthrough Actions to transition flawlessly from high-level geographical overviews to granular transaction layers.
 * **Project Access:** [(https://github.com/SuHninK/Superstore-Sales-Insights-Dashboard)]
 
 
 ### 2. Statistical Modeling and Forecasting: Tourism & Airline Arrival Analysis (Myanmar)
 * **Objective:** Processed and analyzed high-level international tourism arrivals and airline data matrixes to map economic trends.
-* **Key Tech Stack:** *Python*, *SAS*, *SPSS*, *R*,  *R Studio* and Advanced excel.
+* **Key Tech Stack:** **Python**, **SAS**, **SPSS**, **R**,  **R Studio** and Advanced excel.
 * **Key Insights:** Streamlined unstructured arrival data into clean, automated tables to execute multi-platform statistical modeling across Python, SAS, SPSS, and R—systematically benchmarks error rates to optimize multi-variable forecasting efficiency.
 * **Project Access:** *[(https://github.com/SuHninK/Statistical-Modeling-and-Forecasting-Analysis)]*
 
