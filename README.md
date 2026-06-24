@@ -29,7 +29,7 @@ Here, you will find a curated collection of end-to-end data intelligence project
 
 ### 2. Statistical Modeling and Forecasting: Tourism & Airline Arrival Analysis (Myanmar)
 * **Objective:** Processed and analyzed high-level international tourism arrivals and airline data matrixes to map economic trends.
-* **Key Tech Stack:** Python, SAS, SPSS, R,  R Studio and Advanced excel.
+* **Key Tech Stack:** *Python*, *SAS*, *SPSS*, *R*,  *R Studio* and Advanced excel.
 * **Key Insights:** Streamlined unstructured arrival data into clean, automated tables to execute multi-platform statistical modeling across Python, SAS, SPSS, and R—systematically benchmarks error rates to optimize multi-variable forecasting efficiency.
 * **Project Access:** *[(https://github.com/SuHninK/Statistical-Modeling-and-Forecasting-Analysis)]*
 
