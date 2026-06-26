@@ -27,20 +27,31 @@ Here, you will find a curated collection of end-to-end data intelligence project
 * **Project Access:** [(https://github.com/SuHninK/Superstore-Sales-Insights-Dashboard)]
 
 
+### 2. <ins>SQL Database : E-Commerce Retail Superstore Sales Analytics</ins>
+* **Objective:** Restructured complex retail transactional data into optimized relational database structures to monitor profitability margins and streamline revenue tracking.
+* **Key Tech Stack:** **Microsoft SQL Server **, Advanced Query Optimization, Common Table Expressions (CTEs), Window Functions.
+* **Key Feature:** Built data-backed discount guardrails and ranked regional sales velocity to systematically pinpoint and eliminate revenue leakages across product sub-categories.
+* **Project Access:** *[(https://github.com/SuHninK/Ecommerce-Superstore-Sales-SQL)]*
 
-### 2. <ins>Statistical Modeling and Forecasting: Tourism & Airline Arrival Analysis (Myanmar)</ins>
+
+### 3. <ins>Statistical Modeling and Forecasting: Tourism & Airline Arrival Analysis (Myanmar)</ins>
 * **Objective:** Processed and analyzed high-level international tourism arrivals and airline data matrixes to map economic trends.
 * **Key Tech Stack:** **Python**, **SAS**, **SPSS**, **R**,  **R Studio** and Advanced excel.
 * **Key Insights:** Streamlined unstructured arrival data into clean, automated tables to execute multi-platform statistical modeling across Python, SAS, SPSS, and R—systematically benchmarks error rates to optimize multi-variable forecasting efficiency.
 * **Project Access:** *[(https://github.com/SuHninK/Statistical-Modeling-and-Forecasting-Analysis)]*
 
+### 4. <ins>Python Based Statistical Modeling and Forecasting of Myanmar Tourism & Airline Arrivals</ins>
+* **Project Access:** *[(https://github.com/SuHninK/python-statistical-modeling-myanmar-tourism)]*
 
+### 5. <ins>R programming and R studio Based Statistical Modeling and Forecasting of Myanmar Tourism & Airline Arrivals</ins>
+* **Project Access:** *[(https://github.com/SuHninK/R-programming-and-R-studio-statistical-modeling-myanmar-tourism)]*
 
-### 3. <ins>SQL Database : E-Commerce Retail Superstore Sales Analytics</ins>
-* **Objective:** Restructured complex retail transactional data into optimized relational database structures to monitor profitability margins and streamline revenue tracking.
-* **Key Tech Stack:** **Microsoft SQL Server **, Advanced Query Optimization, Common Table Expressions (CTEs), Window Functions.
-* **Key Feature:** Built data-backed discount guardrails and ranked regional sales velocity to systematically pinpoint and eliminate revenue leakages across product sub-categories.
-* **Project Access:** *[(https://github.com/SuHninK/Ecommerce-Superstore-Sales-SQL)]*
+### 6. <ins>SAS Based Statistical Modeling and Forecasting of Myanmar Tourism & Airline Arrivals</ins>
+* **Project Access:** *[(https://github.com/SuHninK/SAS-statistical-modeling-myanmar-tourism)]*
+
+### 7. <ins>SPSS Based Statistical Modeling and Forecasting of Myanmar Tourism & Airline Arrivals</ins>
+* **Project Access:** *[(https://github.com/SuHninK/SPSS-statistical-modeling-myanmar-tourism)]*
+
 
 ---
 
